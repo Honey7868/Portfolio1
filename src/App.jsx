@@ -8,7 +8,7 @@ const profileLinks = {
   github: "https://github.com/Honey7868",
   linkedin: "https://www.linkedin.com/in/nikhithakyatham/",
   email: "mailto:nikhithakyatham64@gmail.com",
-  resume: "/resume.pdf",
+  resume: "/nikki_resume (1).pdf",
 };
 
 const navLinks = [
