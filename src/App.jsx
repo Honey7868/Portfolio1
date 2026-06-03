@@ -35,7 +35,7 @@ const skillGroups = [
   },
   {
     title: "AI and Tools",
-    skills: ["Artificial Intelligence", "Generative AI", "Machine Learning Basics", "Git", "GitHub", "Docker Basics", "Azure Basics", "Selenium Basics"],
+    skills: ["Artificial Intelligence", "Generative AI", "Machine Learning Basics", "Git", "GitHub", "Image Processing", "Computer Vision"],
   },
 ];
 
@@ -116,7 +116,7 @@ function App() {
         <section className="metrics-band" aria-label="Portfolio highlights">
           <Metric value="8.3" label="B.Tech GPA" />
           <Metric value="2026" label="Graduation year" />
-          <Metric value="100%" label="Responsive layout" />
+          <Metric value="6729" label="AINCAT Rank" />
           <Metric value="AI + Web" label="Career focus" />
         </section>
 
